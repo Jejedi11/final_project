@@ -1,5 +1,4 @@
 import pytest
-import os
 from pathlib import Path
 from mp3_player import list_folder, load_playlist, make_playlist
 
